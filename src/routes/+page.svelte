@@ -97,6 +97,7 @@
 			/></svg
 		>
 	</a>
+	<a href="/mercy" target="_blank" rel="noopener">MERCY</a>
 </div>
 <div class="latest-release">
 	<a href={latestRelease.spotifyUrl} target="_blank" rel="noopener" class="hero-link">
